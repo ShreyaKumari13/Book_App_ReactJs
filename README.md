@@ -1,3 +1,7 @@
+save all file in a folder with a name Book_App_React
+
+open the folder
+
 open two terminals
 
 in first terminal write command cd backend
