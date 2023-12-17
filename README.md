@@ -1,8 +1,13 @@
 open two terminals
-in first terminal write command cd backend 
+
+in first terminal write command cd backend
+
 then write second command in this terminal npm install
+
 then write third command in this terminal npm start
+
 in second terminal write command cd client 
+
 then write second command in this terminal npm start
 
 now u can open the xampp server and make a database test and export the queries in the test.sql file as given
